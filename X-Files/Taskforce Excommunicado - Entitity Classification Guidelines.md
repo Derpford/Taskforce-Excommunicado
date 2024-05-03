@@ -83,6 +83,10 @@ The following is an incomplete list of Hazard keywords, and what they mean for t
 
 - Druid: The entity can summon independent sub-entities. This is distinct from Psion, in that the objects summoned can act independently of the thing which created them--i.e., destroying the parent entity does not cause them to stop.
 
+- Warp: The entity can affect position, change the layout of an area, or causes some other form of spatial distortion. This includes the creation of pocket universes and similar.
+
+- Compass: The entity can interfere with attempts to navigate near it. This is sometimes paired with Warp, but not always.
+
 - Highlander: The effect described here grows more powerful upon successfully killing a victim.
 
 - Black Knight: The effect described here grows more powerful when the entity is harmed.
